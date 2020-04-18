@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 name = "worker"
 type = "webpack"
 account_id = "baf56c96cbd73e4c005e04023fb05d55"
 workers_dev = true
 route = ""
 zone_id = ""
+=======
+name = "{{project-name}}"
+type = "javascript"
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+>>>>>>> 2d8f78217091122ce4897a98bbb49eebe39ddb5d
